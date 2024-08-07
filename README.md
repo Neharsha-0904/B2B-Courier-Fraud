@@ -71,18 +71,4 @@ Thank you for exploring our project. If you have any questions or would like mor
 
 ---
 
-## Data Visualization 📊
-
-Here are some visualizations to provide a clearer understanding of our findings:
-
-### Proportion of Orders by Charging Status
-
-![Pie Chart of Order Proportions](images/order_proportion.png)
-
-### Billing Discrepancies
-
-![Bar Chart of Billing Discrepancies](images/billing_discrepancies.png)
-
----
-
 Neharsha Vishnu Kanneganti
