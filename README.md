@@ -60,7 +60,7 @@ Our analysis provides valuable insights into:
 
 Based on our findings, we propose actions to mitigate fraudulent activities and improve billing accuracy. This may involve:
 - Adjusting internal checks for weight and zone calculations.
-- Negotiating with courier companies based on identified discrepancies.
+- Negotiating with courier companies based on identified discrepancies
 - Implementing automated fraud detection systems.
 
 ## Conclusion 🎉
