@@ -1,7 +1,6 @@
 # B2B Courier Fraud Detection Project 📦🔍
 
 Welcome to the B2B Courier Fraud Detection Project! We are excited to introduce you to our initiative aimed at identifying and mitigating fraudulent activities in courier operations. This project focuses on analyzing various datasets to detect discrepancies and ensure accurate billing and operations.
-
 ## Project Objective 🎯
 
 The goal of our project is to enhance the accuracy and transparency of courier operations by using advanced data analysis techniques. By scrutinizing various aspects of the courier system, we aim to identify fraudulent activities, such as overcharging and discrepancies in delivery zones.
