@@ -13,7 +13,7 @@ We work with a comprehensive set of data related to courier operations. This dat
 
 - **Order Report**: Details of all orders, including order numbers, SKUs, and quantities.
 - **SKU Master**: Information about the weight of different SKUs.
-- **Pincode Mapping**: Mapping of warehouse and customer pincodes to their respective zones
+- **Pincode Mapping**: Mapping of warehouse and customer pincodes to their respective zones .
 - **Courier Invoice**: Billing information from the courier company, including charged weights and billing amounts.
 - **Courier Company Rates**: The rate cards for different zones and weight slabs.
 
